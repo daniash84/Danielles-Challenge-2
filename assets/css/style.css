@@ -54,7 +54,7 @@ p {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: ("programming evolution.jpg");
+  background-image: url("../images/programming\ evolution.jpg");
   background-size: cover;
   background-position: center;
 }
