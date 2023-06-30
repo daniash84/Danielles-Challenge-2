@@ -5,13 +5,13 @@
 }
 
 body {
-  background-color: #212121ca;
+  background-color: #181717ca;
 }
 
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-color: #0a656a;
+  background-color: #6e0707;
   color: #ffffff;
 }
 
@@ -54,7 +54,7 @@ p {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../assests/images/dev-pic");
+  background-image: url("../images/dev-pic.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -79,7 +79,7 @@ p {
   padding: 50px;
   height: 300px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #0a656a;
+  background-color: #6e0707;
   color: #ffffff;
 }
 
@@ -100,7 +100,7 @@ p {
   width: 20%;
   height: 100%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #0a656a;
+  background-color: #6e0707;
 }
 
 .article-info {
@@ -126,6 +126,8 @@ p {
   clear: both;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
+  color: #ffffff;
+
 }
 
 .footer h4 {
